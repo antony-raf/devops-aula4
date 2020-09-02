@@ -1,4 +1,5 @@
 # devops-aula4
 Warrior
-Creed
+Creed 2
 Bakemono no Ko
+Senna
